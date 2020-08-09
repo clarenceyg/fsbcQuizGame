@@ -37,10 +37,10 @@ let questions = [
     },
     {
         question: 'What is the correct syntax for referring to an external script called “quizgame.js”?',
-        choice1: '<script src=”geek.js”>',
-        choice2: '<script href=”geek.js”>',
-        choice3: '<script ref=”geek.js”>',
-        choice4: '<script name=”geek.js”>',
+        choice1: '<script src=”quizgame.js”>',
+        choice2: '<script href=”quizgame.js”>',
+        choice3: '<script ref=”quizgame.js”>',
+        choice4: '<script name=”quizgame.js”>',
         answer: 1,
     },
 ]
