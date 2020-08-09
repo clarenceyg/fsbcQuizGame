@@ -2,9 +2,9 @@
 Develop a Timed Code Quiz that stores high scores.
 
 ## Deployment
-Web: 
+Web: https://clarenceyg.github.io/fsbcQuizGame/
 
-Repository: 
+Repository: https://github.com/clarenceyg/fsbcQuizGame
 
 Author: Clarence Guerrero
 
@@ -38,4 +38,5 @@ The following animation demonstrates the application functionality:
 ![code quiz](./Assets/04-web-apis-homework-demo.gif)
 
 ## Stuff done
-1. created 
+1. template
+2. created questions and stored in array 
