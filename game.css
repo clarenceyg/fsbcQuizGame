@@ -30,11 +30,11 @@ body {
 }
 
 .correct {
-    background: linear-gradient(32deg, green 0%, darkgreen);
+    background: linear-gradient(32deg, rgba(11,223,36) 0%, rgba(41,232,111) 100%);
 }
 
 .incorrect {
-    background: linear-gradient(32deg, red 0%, darkred);
+    background: linear-gradient(32deg, rgba(230,29,29,1) 0%, rgba(224,11,11,1) 100%);
 }
 
 /* HUD */
@@ -55,7 +55,7 @@ body {
 #progressBar {
     width: 20rem;
     height: 3rem;
-    border: 0.2rem solid lightgreen;
+    border: 0.2rem solid rgb(11,223,36);
     margin-top: 2rem;
     border-radius: 50px;
     overflow: hudden;
@@ -63,7 +63,7 @@ body {
 
 #progressBarfull{
     height: 100%;
-    background: lightgreen;
+    background: rgb(11,223,36);
     width: 0%;
 }
 
