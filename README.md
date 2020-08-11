@@ -33,14 +33,11 @@ WHEN the game is over
 THEN I can save my initials and score
 ```
 
-The following animation demonstrates the application functionality:
-
-![code quiz](./Assets/04-web-apis-homework-demo.gif)
-
 ## Stuff done
-<<<<<<< HEAD
 1st commit
 1. template, styling
+
+2nd commit
 
 3rd commit
 - created questions and stored in array 
@@ -48,11 +45,14 @@ The following animation demonstrates the application functionality:
    1. score working
    2. questions are now being displayed
 
+4th commit
+- some css styling
+- removed progress bar...could not get it to work :(
+
+
 needs work
 - timer
 - progress bar not working
 - recording high score
-=======
 1. template
 2. created questions and stored in array 
->>>>>>> 0d78ded2807c68925ae4641ffe7ceb6e7520751d
