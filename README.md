@@ -49,10 +49,10 @@ THEN I can save my initials and score
 - some css styling
 - removed progress bar...could not get it to work :(
 
+5th commit
+- updated readme file
 
 needs work
 - timer
 - progress bar not working
 - recording high score
-1. template
-2. created questions and stored in array 
